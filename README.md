@@ -1,10 +1,7 @@
 
+
 <div align="center">
-  <img
-    src="./neon-coding-banner.png"
-    width="100%"
-    alt="Prathmesh's Neon Coding Setup"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:0891b2&height=120&section=header&text=PRATHMESH%20PATIL&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CODE%20%7C%20LEARN%20%7C%20BUILD&descSize=12&descAlignY=60" width="100%" alt="Prathmesh Patil Dark Neon Banner"/>
 </div>
 
 
