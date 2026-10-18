@@ -1,133 +1,78 @@
 
-<h1 align="center">👋 Hi, I'm Prathmesh Patil</h1>
+<div align="center">
 
-<h3 align="center">💻 B.Tech Computer Science Engineering Student</h3>
+# Hi, I'm Prathmesh Patil 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+%7C+C%2B%2B+%7C+Python;Machine+Learning+Enthusiast;Full+Stack+Developer+in+Progress;Code+%7C+Learn+%7C+Build+%7C+Grow" alt="Typing SVG" />
+### Computer Science Engineering Student | Aspiring Software Developer
+
+<p>
+  <a href="https://github.com/prathmeshp290605-png">GitHub</a> •
+  <a href="https://www.linkedin.com/in/prathmesh-patil-907232331">LinkedIn</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/prathmeshp290605-png">
-    <img src="https://img.shields.io/badge/GitHub-Prathmesh-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/prathmesh-patil-907232331">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Code%20%7C%20Learn%20%7C%20Build&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Developer banner"/>
 
----
+</div>
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 B.Tech Computer Science Engineering Student (2023–2027)
-- 💻 Interested in software development and problem-solving
+I'm a B.Tech Computer Science Engineering student who enjoys learning programming and building practical software projects.
+
+- 🎓 B.Tech CSE (2023–2027)
+- 💻 Interested in Java, Python, and software development
 - 🤖 Exploring Machine Learning and Computer Vision
 - 🌱 Currently learning Java Full Stack Development
-- 🚀 Building practical projects to improve my technical skills
 - 📍 Kolhapur, Maharashtra, India
 
----
+## Technical Skills
 
-## ⚡ Technical Skills
+**Programming:** C, C++, Java, Python
 
-### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+**Web Development:** HTML, CSS, JavaScript, MERN Stack (Learning)
 
-### 🌐 Web Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MERN-Currently_Learning-0B9E6F?style=for-the-badge" />
-</p>
+**Machine Learning:** CNN, OpenCV, Computer Vision
 
-### 🧠 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Machine_Learning-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge" />
-</p>
+**Core Concepts:** Data Structures, OOP, DBMS
 
-### 🛠️ Tools & Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+**Tools:** Git, GitHub, VS Code
 
-- Data Structures and Algorithms (DSA)
-- Object-Oriented Programming (OOP)
-- Database Management Systems (DBMS)
+## Featured Projects
 
----
+### Face Recognition Attendance System
 
-## 🚀 Featured Projects
+A Python and OpenCV project for face recognition and attendance management.
 
-### 1. 🟢 Face Recognition Attendance System
+[View Repository →](https://github.com/prathmeshp290605-png/Face-Recognition-Attendance-System)
 
-A Python and OpenCV project designed to recognize faces and maintain attendance records.
+### Body Sync Anatomy — Tumor Prediction
 
-**Technologies:** Python, OpenCV, Computer Vision
+A brain MRI classification project using CNN, with Grad-CAM visualization and tumor segmentation components.
 
-🔗 [View Repository](https://github.com/prathmeshp290605-png/Face-Recognition-Attendance-System)
+[View Repository →](https://github.com/prathmeshp290605-png/Body_Sync_Anatomy_Tumor_CNN)
 
-### 2. 🧠 Body Sync Anatomy — Tumor Prediction
+## GitHub Overview
 
-A brain MRI image classification project using CNN, with Grad-CAM visualization and tumor segmentation components.
+<div align="center">
 
-**Technologies:** Python, CNN, Machine Learning, Streamlit
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=prathmeshp290605-png&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub overview"/>
 
-🔗 [View Repository](https://github.com/prathmeshp290605-png/Body_Sync_Anatomy_Tumor_CNN)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshp290605-png&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
 
----
+</div>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prathmeshp290605-png&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmeshp290605-png&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prathmeshp290605-png&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathmeshp290605-png&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-## 🎯 Currently Learning
+## Currently Learning
 
 - Java Full Stack Development
 - Data Structures and Algorithms
-- Machine Learning
 - Backend Development and REST APIs
+- Machine Learning
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/prathmeshp290605-png">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/prathmesh-patil-907232331">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+**Thanks for visiting my profile!**
 
-<p align="center">
-  <b>⚡ Code • Learn • Build • Grow ⚡</b>
-</p>
+*Always learning. Always building.* 🚀
+
+</div>
