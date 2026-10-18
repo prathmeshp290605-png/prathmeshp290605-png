@@ -40,7 +40,9 @@ I'm a Computer Science Engineering student interested in software development, M
 ### 🤝 Connect With Me
 
 - GitHub: [prathmeshp290605-png](https://github.com/prathmeshp290605-png)
-- LinkedIn: [Prathmesh Patil](https://www.linkedin.com/in/prathmesh-patil/)
+- LinkedIn: www.linkedin.com/in/
+prathmesh-patil-907232331
+
 
 ---
 
