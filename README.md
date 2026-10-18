@@ -61,8 +61,8 @@ CNN-based brain MRI image classification with Grad-CAM and tumor segmentation co
 <a href="https://github.com/prathmeshp290605-png">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/
-prathmesh-patil-907232331
+<a href="[www.linkedin.com/in/
+prathmesh-patil-907232331](https://www.linkedin.com/in/prathmesh-patil-90723331/)
 ">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
