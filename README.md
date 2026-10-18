@@ -1,7 +1,12 @@
 
 <div align="center">
+  <img
+    src="./neon-coding-banner.png"
+    width="100%"
+    alt="Prathmesh's Neon Coding Setup"
+  />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:0891b2&height=200&section=header&text=PRATHMESH%20PATIL&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20LEARN%20%7C%20BUILD&descSize=16&descAlignY=60" width="100%" alt="Dark neon developer banner"/>
 
 ### 💻 Computer Science Engineering Student
 
