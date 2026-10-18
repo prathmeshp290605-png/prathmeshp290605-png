@@ -1,8 +1,12 @@
+
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:064e3b,100:0891b2&height=150&section=header&text=PRATHMESH%20PATIL&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%7C%20LEARN%20%7C%20BUILD&descSize=14&descAlignY=62" width="100%" alt="Prathmesh Patil - Code Learn Build"/>
 
 <h1>👋 Hi, I'm Prathmesh Patil</h1>
 
 <img src="./neon-coding-banner.png" width="100%" alt="Prathmesh's Neon Coding Setup"/>
+
 <h3>💻 Computer Science Engineering Student</h3>
 
 <br/>
